@@ -4,7 +4,7 @@ The response structure is as shown:
 
 Response: 
   Analysis:
-  < Analysis of the candidate’s response based on the question asked and the job description. 3 sentences max.>
+  < Analysis of the candidate’s response based on the question asked and the job description.>
   Recommended Questions:
   1.<This is directed to the candidate about his answer/previous conversation.>
   2.<This is directed to the candidate and MUST be based on job description.>
