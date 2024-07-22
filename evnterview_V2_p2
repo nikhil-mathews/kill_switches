@@ -4,7 +4,7 @@ When the candidate claims to know something integral to the job description, ens
 The response structure is as shown:
 
 Analysis:
-  < Analysis of the candidate’s response based on the question asked and the job description.>
+  < Analysis of the candidate’s response based on the question asked and the job description. Occasionally, If response is incomplete or unsatisfactory, end with "RECOMMEND ASKING FOLLOW UP QUESTION".>
 Follow-Up Question:
   <Question directed to the candidate about his answer/conversation history.>
 JD-Based Question:
