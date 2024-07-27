@@ -3,5 +3,6 @@
   "Q_LLM": "gpt-4o-mini",
   "TERM_LLM": "gpt-4o-mini",
   "IMG_LLM": "gpt-4o",
+  "welcome": "Welcome to Evnterview for Agile Tech Labs! \nAfter filling up the Interview Details, make sure everything is ready before you click Begin Interview."
   "api": "Z0FBQUFBQm1oWDhZVmlUYWIySjJEb2VZTG9MTkZzUWRyZEo5dzNxRTJiTkdZcHg4U0xjazltSlBhNVQybk5vSkpvQ2NROFZEbE5IVVA3ck9TR0dBbnJhUWxsUUN4QnBqWjYyMFgtN3NZc3M5dk5pQk5HRC1jNHpTcE5xazJpWVpMcW5tTElid1Z3dU5VeUNfNUFUQ3pEMG9KN1hWaWp3UU1nPT0="
 }
