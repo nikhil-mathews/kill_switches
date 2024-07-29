@@ -3,6 +3,6 @@
   "Q_LLM": "gpt-4o-mini",
   "TERM_LLM": "gpt-4o-mini",
   "IMG_LLM": "gpt-4o",
-  "welcome": "Welcome to Evnterview for Agile Tech Labs!\n\nPlease take a deep breath, relax, and center yourself.\n\nOnce you've filled out the Interview Details, ensure everything is in order before you click 'Begin Interview.'",
+  "welcome": "Welcome to Evnterview for Agile Tech Labs!\n\nPlease take a deep breath, relax, and center yourself.\n\nINFORM THE CANDIDATE: This interview is being recorded for evaluation purposes.\n\nOnce you've filled out the Interview Details, ensure everything is in order before you click 'Begin Interview.'",
   "api": "Z0FBQUFBQm1oWDhZVmlUYWIySjJEb2VZTG9MTkZzUWRyZEo5dzNxRTJiTkdZcHg4U0xjazltSlBhNVQybk5vSkpvQ2NROFZEbE5IVVA3ck9TR0dBbnJhUWxsUUN4QnBqWjYyMFgtN3NZc3M5dk5pQk5HRC1jNHpTcE5xazJpWVpMcW5tTElid1Z3dU5VeUNfNUFUQ3pEMG9KN1hWaWp3UU1nPT0="
 }
